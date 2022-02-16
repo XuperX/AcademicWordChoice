@@ -13,3 +13,6 @@ Upgrading to more advanced words, like `Use--> Utilize --> Exploit`
 
 ## Snippets
 - a continuous and cyclic process
+- source: Duck's thesis
+![image](https://user-images.githubusercontent.com/36501176/154286315-a7bf6a6c-2b2e-4319-92f8-4904ba1759e6.png)
+
