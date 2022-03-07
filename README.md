@@ -24,3 +24,4 @@ Upgrading to more advanced words, like
 
 ## Grammar
 - Data and Metadata can be singular or plural [guide](https://editorsmanual.com/articles/data-singular-or-plural/)
+![image](https://user-images.githubusercontent.com/36501176/157024475-ead7c026-3401-4492-b70b-f0fe30f807a8.png)
